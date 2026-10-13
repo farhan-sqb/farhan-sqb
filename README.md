@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Farhan Saqib 👋
 
-<!--
-**farhan-sqb/farhan-sqb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Lahore, Pakistan. I build custom web apps and mobile apps with **Laravel, PHP, MySQL and Flutter**.
 
-Here are some ideas to get you started:
+**Founder of [EWEVOLUTIONS](https://www.ewevolutions.com/)** · 15+ years of experience · 500+ orders delivered on Fiverr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+- Custom Laravel and PHP web apps, dashboards and CRMs
+- Flutter mobile apps for Android and iOS
+- REST APIs, integrations, fixes and maintenance
+
+## Tech
+Laravel · PHP · MySQL · Flutter · JavaScript · Tailwind CSS · CodeIgniter
+
+## Let's work together
+🌐 [Portfolio](https://www.ewevolutions.com/)
+💼 [LinkedIn](https://www.linkedin.com/in/farhan-saqib-85068621/)
+🟢 [Fiverr](https://www.fiverr.com/fani99)
+💬 [WhatsApp](https://wa.me/923244202185)
